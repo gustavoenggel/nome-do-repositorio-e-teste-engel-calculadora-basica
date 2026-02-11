@@ -53,7 +53,7 @@ elif operacao == '3':
     multiplicaca.append (float(input('insira o segundo numero:')))
     print('Multiplicar:',multiplicacao(multiplicaca))
 
-#CASO O USUARIO ESCOLHA DIVIDIR #NAO FUNCIONOU
+#CASO O USUARIO ESCOLHA DIVIDIR
 elif operacao == '4':
     a = (float(input('insira o primeiro numero:')))
     b = (float(input('insira o segundo numero:')))
